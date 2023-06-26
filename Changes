@@ -1,6 +1,8 @@
-Revision history for Finance-Exchange
+Revision history for Finance::Calendar
 
 {{$NEXT}}
+
+    - Fix bug for next_open_at for markets with late openings
 
 0.04      2023-03-12 13:31:25+00:00 UTC
     - add next_open_at
